@@ -39,7 +39,9 @@ agentic AI grounding
 
 Recent clients: AstraZeneca, NICE, the Royal Pharmaceutical Society, and the 
 UK Atomic Energy Authority. Earlier, Director of Content Architecture at Pearson 
-International. Oxford Human Sciences (BA, First Class).
+International. 
+
+Human Sciences, Oxford (BA, First Class).
 
 ---
 
