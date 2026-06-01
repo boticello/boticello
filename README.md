@@ -16,7 +16,7 @@ solid-state pharmaceutical chemistry, aligned to Allotrope, IDMP, and ChEBI,
 forming the semantic backbone of a digital twin programme.
 
 I've been doing this kind of work — under various job titles — for 25 years, 
-across pharma, health, energy, and education. My USP is 
+across pharma, health, media and education. My USP is 
 translating complex, ambiguous domains into clean, reusable, logically-rigorous 
 data models that downstream systems can actually rely on.
 
