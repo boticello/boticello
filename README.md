@@ -8,7 +8,7 @@ instruments to decisions, and the FAIR data architecture that ties it together.
 
 Most recently this was production work at AstraZeneca — an ontology for 
 solid-state pharmaceutical chemistry, aligned to Allotrope, IDMP, and ChEBI, 
-forming the semantic backbone of a digital twin programme.
+designed as the semantic backbone of a lab digital twin programme.
 
 I've been doing this kind of work — under various job titles — for 25 years, 
 across pharma, health, media and education. My USP is 
