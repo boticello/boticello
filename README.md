@@ -23,7 +23,7 @@ data models that downstream systems can actually rely on.
 **Upper ontologies & standards** — BFO, OBI, OAE, IAO, CCO, QUDT, ChEBI, IDMP, 
 Allotrope, SNOMED CT, LOINC, FHIR  
 **Knowledge graphs** — Neo4j, TypeDB, TerminusDB  
-**Lifecycle & tooling** — ROBOT, pySHACL, GitHub-native schema workflows
+**Lifecycle & tooling** — ROBOT, pySHACL, GitHub-native schema workflows  
 **Architecture** — FAIR data products, data mesh, ontology-based data management, 
 agentic AI grounding  
 
