@@ -1,4 +1,4 @@
-# Ontologist · Semantic Architect · Knowledge Engineer
+# Ontologist · Semantic Engineer
 
 **I design and build the knowledge layers that make scientific data useful to AI**.
 
