@@ -1,9 +1,4 @@
-# Chris M—
-
-**Ontologist · Semantic Architect · Knowledge Engineer**  
-*London, UK · Available for consultancy*
-
----
+# Ontologist · Semantic Architect · Knowledge Engineer
 
 **I design and build the knowledge layers that make scientific data useful to AI**.
 
