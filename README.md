@@ -5,7 +5,7 @@
 
 ---
 
-I design and build the knowledge layers that make scientific data useful to AI.
+**I design and build the knowledge layers that make scientific data useful to AI**.
 
 That means OWL reasoning models grounded in upper ontologies like BFO and OBI, SHACL 
 constraint layers as data contracts, knowledge graphs that connect 
