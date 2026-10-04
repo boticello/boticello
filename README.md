@@ -35,8 +35,6 @@ Recent clients: AstraZeneca, NICE, the Royal Pharmaceutical Society, and the
 UK Atomic Energy Authority. Earlier, Director of Content Architecture at Pearson 
 International. 
 
-Human Sciences, Oxford (BA, First Class).
-
 ---
 
 *[LinkedIn](https://linkedin.com/in/miklophone) · chris+github@hi-lo.org*
